@@ -1,6 +1,8 @@
-/* Samantha 2/11/25 */
-
-
+/************************************
+*Project: Comments
+*Programmer: Sam Kim
+*Date: 2/11/25
+*************************************/
 
 public class Comments
 {
